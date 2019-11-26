@@ -1,9 +1,10 @@
 CPRS Assist
 ===========
 
-CPRS Assist.exe is a tool developed with Autohotkey, used in building Consult
-Toolbox and Decision Support Tool (DST), and provides advanced scripted
-shortcuts for common CPRS functions, including entering in diagnoses and writing
+CPRS Assist.exe attempts to improve the shortcomings of the CPRS interface with advanced macros.
+The tool is developed with Autohotkey (used in building Consult
+Toolbox and Decision Support Tool) and provides advanced scripted
+shortcuts for common CPRS functions including entering diagnoses and writing
 follow up letters.
 
 **Diagnosis Fixer**
@@ -11,16 +12,16 @@ follow up letters.
 **Problem:** When searching for ICD 10 diagnoses in CPRS, process takes too
 long, and results are often inaccurate/limited
 
-**A solution:** Lookup via Google and change diagnoses to ICD10 code within
+**Solution:** Lookup diagnosis' ICD10 code via Google and change diagnoses to ICD10 code within
 diagnosis prompt
 
-**Details:** Automatically reads what’s typed in the Lookup Diagnosis box,
+**Details:** Script automatically reads what’s typed in the Lookup Diagnosis box,
 retrieves first search in Google snippet box for “ICD 10 \<typed diagnosis\>” in
-background and returns the ICD 10 code. Makes searching for diagnoses much
-faster (google search takes usually 1-2 seconds, and the CPRS dialog box works
-faster with direct ICD 10 codes), more tolerant to spelling errors, and will
-carry the last ICD 10 description selected to the subsequent SNOMED box (when
-adding to problem list):
+background and returns the ICD 10 code back into the Lookup Diagnosis box. Makes 
+searching for diagnoses much faster (google search takes usually 1-2 seconds, 
+and the CPRS dialog box works faster with direct ICD 10 codes), more tolerant 
+to spelling errors, and will carry the last ICD 10 description selected to the 
+subsequent SNOMED box (when adding to problem list):
 
 ![C:\\Users\\X1\\Documents\\GitHub\\index_files\\image001.gif](media/501b928bd6ce04239f6512370c2bfed2.gif)
 
