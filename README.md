@@ -25,8 +25,6 @@ subsequent SNOMED box (when adding to problem list):
 
 ![C:\\Users\\X1\\Documents\\GitHub\\index_files\\image001.gif](media/501b928bd6ce04239f6512370c2bfed2.gif)
 
-C:\\Users\\X1\\Documents\\GitHub\\index_files\\image001.gif
-
 **Limits:** click and drag doesn’t work while in box (but clicking on “OK”
 button or enter works), sometimes will get detailed diagnoses wrong (like LEFT
 glaucoma may return RIGHT glaucoma) but works well with general diagnoses.  If a
@@ -55,8 +53,6 @@ In the Notes tab,** Ctrl + Alt + F** starts the process:
 
 ![C:\\Users\\X1\\Documents\\GitHub\\index_files\\image003.gif](media/fee92e6abb7c23a172423f10017b19c3.gif)
 
-C:\\Users\\X1\\Documents\\GitHub\\index_files\\image003.gif
-
 **Limits**-Defaults to Rocky Mountain Regional VA address (can be easily
 changed), only captures labs with [xxx] labels on end like:
 
@@ -74,8 +70,6 @@ whenever this prompt appears (automatically done, no input needed):
 
 ![C:\\Users\\X1\\Documents\\GitHub\\index_files\\image004.png](media/7fab9923b6b830fdca9a9a75e168aace.png)
 
-C:\\Users\\X1\\Documents\\GitHub\\index_files\\image004.png
-
 **Details:** To activate: Open program, which runs in background without further
 user action needed
 
@@ -83,8 +77,6 @@ user action needed
 clicking here:
 
 ![C:\\Users\\X1\\Documents\\GitHub\\index_files\\image005.png](media/986323b1587ad3faba1f035ab019a166.png)
-
-C:\\Users\\X1\\Documents\\GitHub\\index_files\\image005.png
 
 Doesn’t interfere w/ scheduled visit encounters.  Not for use if
 00-SOCO-DOCUMENT-NO WORKLOAD is needed (Southern Colorado CBOCs).
@@ -103,8 +95,6 @@ previous CC HH order.  If found, will copy previous order, and use that to
 create a new order:
 
 ![C:\\Users\\X1\\Documents\\GitHub\\index_files\\image002.gif](media/ffe6cdb29ca3fdee6ceb4e59f513a10e.gif)
-
-C:\\Users\\X1\\Documents\\GitHub\\index_files\\image002.gif
 
 **Limits:** Still need to review for errors, will need to change dates to
 current and add diagnosis.  Will not work for brand new orders without previous
@@ -185,13 +175,9 @@ running).  To stop the program, right click and “exit” as below.
 
 ![C:\\Users\\X1\\Documents\\GitHub\\index_files\\image006.png](media/fa9d916a475b94303a485918a4153ded.png)
 
-C:\\Users\\X1\\Documents\\GitHub\\index_files\\image006.png
-
 To exit out of program, right click and select exit.
 
 ![C:\\Users\\X1\\Documents\\GitHub\\index_files\\image007.png](media/14687e7963131d15cea88fa08150bfe7.png)
-
-C:\\Users\\X1\\Documents\\GitHub\\index_files\\image007.png
 
 Disclaimer: All programs are rough drafts that are under development and are for
 demonstration purposes only.  Not for general use and I am still working on edge
