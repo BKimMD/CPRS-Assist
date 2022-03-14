@@ -1,27 +1,31 @@
 CPRS Assist
 ===========
 
-CPRS Assist.exe attempts to improve the shortcomings of the CPRS interface with advanced macros.
-The tool is developed with Autohotkey (used in building Consult
-Toolbox and Decision Support Tool) and provides advanced scripted
+CPRS Assist.exe improves the CPRS interface with advanced macros.
+Tool is developed with Autohotkey (used in building Consult Toolbox and Decision Support Tool) and provides advanced scripted
 shortcuts for common CPRS functions including entering diagnoses and writing
 follow up letters.
 
 **Diagnosis Fixer**
 
-**Problem:** When searching for ICD 10 diagnoses in CPRS, process takes too
-long, and results are often inaccurate/limited
+**Problem:** Specifying diagnoses in CPRS takes too long and results are often inaccurate or limited
 
-**Solution:** Lookup diagnosis' ICD10 code via Google and change diagnoses to ICD10 code within
-diagnosis prompt
+**Solution:** Search diagnosis keyword's ICD10 code via Google and change diagnosis to ICD10 code within
+CPRS's diagnosis prompt
 
-**Details:** Script automatically reads what’s typed in the Lookup Diagnosis box,
-retrieves first search in Google snippet box for “ICD 10 \<typed diagnosis\>” in
-background and returns the ICD 10 code back into the Lookup Diagnosis box. Makes 
-searching for diagnoses much faster (google search takes usually 1-2 seconds, 
-and the CPRS dialog box works faster with direct ICD 10 codes), more tolerant 
-to spelling errors, and will carry the last ICD 10 description selected to the 
-subsequent SNOMED box (when adding to problem list):
+**Details:** Script automatically: 
+1. Reads what’s typed in the Lookup Diagnosis box
+2. Retrieves first search in Google snippet box for “ICD 10 \<typed diagnosis\>” in
+background 
+3. Returns the ICD 10 code back into the Lookup Diagnosis box  
+
+Process of searching for diagnoses is much faster. 
+Native CPRS diagnosis search usually takes many seconds and is not tolerant to mispelliings. 
+New process with Google search:
+1. Usually takes 1 seconds or less
+2. Is much more tolerant to spelling errors
+3. CPRS diagnosis prompt accepts ICD10 codes much more quickly 
+4. Will carry the last ICD 10 description selected to the subsequent SNOMED box (when adding to problem list)
 
 ![C:\\Users\\X1\\Documents\\GitHub\\index_files\\image001.gif](media/501b928bd6ce04239f6512370c2bfed2.gif)
 
@@ -29,7 +33,7 @@ subsequent SNOMED box (when adding to problem list):
 button or enter works), sometimes will get detailed diagnoses wrong (like LEFT
 glaucoma may return RIGHT glaucoma) but works well with general diagnoses.  If a
 search isn’t found, will automatically open google search with above search
-terms.
+terms. Only diagnosis terms are searched on google.
 
 **Future Ideas:** If SNOMED’ing diagnoses are priority, even for diagnosis used
 temporarily that is not added to problem list, we can find ways to have the
