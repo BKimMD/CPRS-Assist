@@ -1,6 +1,6 @@
 # CPRS Assist
 
-CPRS Assist.exe is a suite of tools that improves CPRS workflows. Developed with Autohotkey, which is also used in building Consult Toolbox and Decision Support Tool. Provides advanced scripted shortcuts for common CPRS functions including entering diagnoses and writing follow up letters.
+CPRS Assist.exe is a suite of tools that improves CPRS workflows. Developed using Autohotkey, which is also used in building Consult Toolbox and Decision Support Tool. Provides advanced scripted shortcuts for common CPRS functions including entering diagnoses and writing follow up letters.
 
 ## Diagnosis Fixer 
 
