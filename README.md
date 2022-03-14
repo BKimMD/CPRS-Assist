@@ -1,5 +1,4 @@
-CPRS Assist
-===========
+# CPRS Assist
 
 CPRS Assist.exe improves the CPRS interface with advanced macros.
 Tool is developed with Autohotkey (used in building Consult Toolbox and Decision Support Tool) and provides advanced scripted
@@ -7,7 +6,7 @@ shortcuts for common CPRS functions including entering diagnoses and writing
 follow up letters.
 
 
-<ins>**Diagnosis Fixer**</ins>
+## Diagnosis Fixer 
 
 **Problem:** Specifying diagnoses in CPRS takes too long and results are often inaccurate or limited
 
@@ -43,7 +42,7 @@ diagnosis to an ICD 10 code (but not as easy the other way around as there are
 more SNOMED than ICD-10 terms).
 
 
-<ins>**Lab and Radiology Letterwriter**</ins>
+## Lab and Radiology Letterwriter
 
 **Problem:** Lab/radiology result letters for patients require a lot of editing
 to maximize pertinent information communicated within limited space constraints
@@ -66,7 +65,7 @@ PSA                            0.58     ng/ml 
 
 Doesn’t capture: FOBT/FIT, path, or micro-currently work in progress
 
-<ins>**AutoLocation00**</ins>
+## AutoLocation00
 
 **Problem:** Anytime a new order is placed without a visit association, a
 location prompt appears that needs to be answered the same way
