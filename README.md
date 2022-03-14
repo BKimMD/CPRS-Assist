@@ -6,8 +6,7 @@ CPRS Assist.exe is a suite of tools that improves CPRS workflows. Developed usin
 
 **Problem:** Specifying diagnoses in CPRS takes too long and results are often inaccurate or limited
 
-**Solution:** Search diagnosis keyword's ICD10 code via Google and change diagnosis to ICD10 code within
-CPRS's diagnosis prompt
+**Solution:** Translate diagnosis keyword into ICD10 code via Google and insert results within CPRS's diagnosis prompt
 
 **Details:** Script automatically: 
 1. Reads what’s typed in the Lookup Diagnosis box
