@@ -26,16 +26,14 @@ New process with Google search:
 
 **Limits:** click and drag doesn’t work while in box (but clicking on “OK”
 button or enter works), sometimes will get detailed diagnoses wrong (like LEFT
-glaucoma may return RIGHT glaucoma) but works well with general diagnoses.  If a
-search isn’t found, will automatically open google search with above search
-terms. Only diagnosis terms are searched on google.
+glaucoma may return RIGHT glaucoma) but works well with general diagnoses. Each CPRS step is visible to end-user. If a
+search isn’t found, will automatically open google search with above search terms. Only diagnosis terms are searched on google.
 
 **Future Ideas:** If SNOMED’ing diagnoses are priority, even for diagnosis used
 temporarily that is not added to problem list, we can find ways to have the
 SNOMED box appear first, as it would be very easy to map a given SNOMED
 diagnosis to an ICD 10 code (but not as easy the other way around as there are
 more SNOMED than ICD-10 terms).
-
 
 ## Lab and Radiology Letterwriter
 
