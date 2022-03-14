@@ -6,6 +6,7 @@ Tool is developed with Autohotkey (used in building Consult Toolbox and Decision
 shortcuts for common CPRS functions including entering diagnoses and writing
 follow up letters.
 
+
 <ins>**Diagnosis Fixer**</ins>
 
 **Problem:** Specifying diagnoses in CPRS takes too long and results are often inaccurate or limited
@@ -40,6 +41,7 @@ temporarily that is not added to problem list, we can find ways to have the
 SNOMED box appear first, as it would be very easy to map a given SNOMED
 diagnosis to an ICD 10 code (but not as easy the other way around as there are
 more SNOMED than ICD-10 terms).
+
 
 <ins>**Lab and Radiology Letterwriter**</ins>
 
@@ -84,6 +86,7 @@ clicking here:
 
 Doesn’t interfere w/ scheduled visit encounters.  Not for use if
 00-SOCO-DOCUMENT-NO WORKLOAD is needed (Southern Colorado CBOCs).
+
 
 <ins>**Community Care Home Health Copier (for both Skilled/Unskilled)**</ins>
 
