@@ -6,7 +6,7 @@ Tool is developed with Autohotkey (used in building Consult Toolbox and Decision
 shortcuts for common CPRS functions including entering diagnoses and writing
 follow up letters.
 
-**Diagnosis Fixer**
+<ins>**Diagnosis Fixer**</ins>
 
 **Problem:** Specifying diagnoses in CPRS takes too long and results are often inaccurate or limited
 
@@ -20,7 +20,7 @@ background
 3. Returns the ICD 10 code back into the Lookup Diagnosis box  
 
 Process of searching for diagnoses is much faster. 
-Native CPRS diagnosis search usually takes many seconds and is not tolerant to mispelliings. 
+Native CPRS diagnosis search usually takes many seconds and is not tolerant to misspellings. 
 New process with Google search:
 1. Usually takes 1 seconds or less
 2. Is much more tolerant to spelling errors
