@@ -41,7 +41,7 @@ SNOMED box appear first, as it would be very easy to map a given SNOMED
 diagnosis to an ICD 10 code (but not as easy the other way around as there are
 more SNOMED than ICD-10 terms).
 
-**Lab and Radiology Letterwriter**
+<ins>**Lab and Radiology Letterwriter**</ins>
 
 **Problem:** Lab/radiology result letters for patients require a lot of editing
 to maximize pertinent information communicated within limited space constraints
@@ -64,7 +64,7 @@ PSA                            0.58     ng/ml 
 
 Doesn’t capture: FOBT/FIT, path, or micro-currently work in progress
 
-**AutoLocation00**
+<ins>**AutoLocation00**</ins>
 
 **Problem:** Anytime a new order is placed without a visit association, a
 location prompt appears that needs to be answered the same way
@@ -85,7 +85,7 @@ clicking here:
 Doesn’t interfere w/ scheduled visit encounters.  Not for use if
 00-SOCO-DOCUMENT-NO WORKLOAD is needed (Southern Colorado CBOCs).
 
-**Community Care Home Health Copier (for both Skilled/Unskilled)**
+<ins>**Community Care Home Health Copier (for both Skilled/Unskilled)**</ins>
 
 **Problem:** Community HH orders need to be reordered frequently and take up
 limited PACT time resources while requiring the same answers
@@ -105,7 +105,7 @@ current and add diagnosis.  Will not work for brand new orders without previou
 CC order or if previous order is buried under \> 15 other consults (order will
 likely be too old and require changes, but threshold can be changed).
 
-**Hotkey Functions**
+<ins>**Hotkey Functions**</ins>
 
 Description of functions in **CPRS Asssist.exe** depends on the active tab**:**
 
