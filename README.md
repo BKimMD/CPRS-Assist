@@ -80,7 +80,7 @@ Doesn’t interfere w/ scheduled visit encounters.  Not for use if
 00-SOCO-DOCUMENT-NO WORKLOAD is needed (Southern Colorado CBOCs).
 
 
-<ins>**Community Care Home Health Copier (for both Skilled/Unskilled)**</ins>
+##Community Care Home Health Copier (for both Skilled/Unskilled)
 
 **Problem:** Community HH orders need to be reordered frequently and take up
 limited PACT time resources while requiring the same answers
@@ -100,7 +100,7 @@ current and add diagnosis.  Will not work for brand new orders without previou
 CC order or if previous order is buried under \> 15 other consults (order will
 likely be too old and require changes, but threshold can be changed).
 
-<ins>**Hotkey Functions**</ins>
+##Hotkey Functions
 
 Description of functions in **CPRS Asssist.exe** depends on the active tab**:**
 
