@@ -42,7 +42,7 @@ to maximize pertinent information communicated within limited space constraints
 
 **A Solution:** Use regular expression (regex) to search and replace only
 pertinent info, while leaving out all unnecessary spaces, lines and
-lab/radiology verbiage
+non-relevant verbiage
 
 **Details:** In Lab and Reports tab, program searches for 1 week of labs and
 radiology results, extracts unique results, and attaches to bottom of letter.
@@ -80,12 +80,12 @@ Doesn’t interfere w/ scheduled visit encounters.  Not for use if
 00-SOCO-DOCUMENT-NO WORKLOAD is needed (Southern Colorado CBOCs).
 
 
-##Community Care Home Health Copier (for both Skilled/Unskilled)
+## Community Care Home Health Copier (for both Skilled/Unskilled)
 
 **Problem:** Community HH orders need to be reordered frequently and take up
 limited PACT time resources while requiring the same answers
 
-**A solution:** If order is unchanged, find previous HH order and copy/paste
+**A solution:** If an order is unchanged, find previous HH order and copy/paste
 into new order
 
 **Details:** When activated-currently through the Menu from Ctrl + \` (key is
@@ -100,9 +100,9 @@ current and add diagnosis.  Will not work for brand new orders without previou
 CC order or if previous order is buried under \> 15 other consults (order will
 likely be too old and require changes, but threshold can be changed).
 
-##Hotkey Functions
+## Hotkey Functions
 
-Description of functions in **CPRS Asssist.exe** depends on the active tab**:**
+Description of functions in **CPRS Asssist.exe** depends on the active tab context**:**
 
 *Globally*-
 
